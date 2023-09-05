@@ -67,9 +67,9 @@ Function({
 `
 	}
 	await message.send(msg);
-	/* var img = await parsedUrl(BOT_INFO)
+	 var img = await parsedUrl(BOT_INFO)
 	if (img.length == 0) {
-		img = ['https://i.imgur.com/qJUBCYm.jpeg']
+		img = ['https://i.imgur.com/iPXcJ5U.png']
 	}
 	const image = img[Math.floor(Math.random() * img.length)]
 	const type = image.endsWith('mp4') ? 'video' : 'image'
@@ -80,7 +80,7 @@ Function({
 		buttons: [{buttonId: prefix + 'ping', buttonText: { displayText: 'Speed Test' }, type: 1},{ buttonId: prefix + 'list', buttonText: { displayText: 'List Commands' }, type: 1}]
 	}
 	await message.client.sendMessage(message.chat, buttonMessage)
-	*/
+	
 	
 });
 
