@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ɪxAAʀ Bᴏᴛ;Dᴇᴠ ɪxAAʀ;94754613532;https://i.imgur.com/iPXcJ5U.png"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "ɪxAAʀ Bᴏᴛ;Dᴇᴠ ɪxAAʀ"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ɪxAAʀ Bᴏᴛ;Dᴇᴠ ɪxAAʀ;https://i.imgur.com/iPXcJ5U.png"
     },
     "READ_MSG": {
       "description": "Read all messages",
